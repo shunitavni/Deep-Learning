@@ -1,4 +1,4 @@
-# Deep-Learning
+# Tennis game prediction
 
 In this project I developed an algorithm that predicts the winner of a given Tennis match.
 
